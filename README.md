@@ -5,9 +5,11 @@ Using Keras to build popular RNN structures to predict stock prices.
 https://github.com/lilianweng/stock-rnn Lilian provides a great blog post with code repo based on Tensorflow. It provides a lot useful background readings. Do check it out!
 
 ## Structure of the Flow
+### Basic Review of RNN
 
-## Model Buildup
 
 ## Experiment Setup
-
+### Proposed Workflow
+### Data Preparation
+### Model Set-up
 ## Conclusion
