@@ -11,5 +11,7 @@ The basic network structure we encounter is
 ## Model Buildup
 
 ## Experiment Setup
-
+### Proposed Workflow
+### Data Preparation
+### Model Set-up
 ## Conclusion
