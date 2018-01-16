@@ -9,7 +9,10 @@ https://github.com/lilianweng/stock-rnn Lilian provides a great blog post with c
 ![alt text](RNN_Structure.jpg "A simplified version of RNN")
 
 
-The basic network structure we encounter is "multi-layer perceptron", or densely-connected network. In a densely connected neural network, no _assumption_ of the input data is given, that is  
+The network structure commonly used is "multi-layer perceptron," or densely-connected network. The densely connected neural network gives no _assumption_ of the input data. However, we'd like to model the dependence of the data (i.e., stock data). How could we design the model so the order of data input affects the output of the model? The answer is Recurrent Neural Network (RNN).
+
+In the RNN, each neural unit not only receives data from input but also receives previous unit's input.
+Special RNN network structure.
 ## Model Buildup
 
 ## Experiment Setup
